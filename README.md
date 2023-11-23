@@ -161,47 +161,36 @@
 ---
 
 ### 메인화면
-
 <img src="https://github.com/najonghyun/juchamsi/assets/102370959/1537c6d0-cf09-451b-aee4-70ba8046348e" width="30%" height="30%">
 
 ### 출차 시간 등록
-
-![rn_image_picker_lib_temp_d4201a90-e18b-4640-818f-4521c1d54af7](/uploads/85c6265ebd548afa454a1fd1106a6c77/rn_image_picker_lib_temp_d4201a90-e18b-4640-818f-4521c1d54af7.jpg){: width="30%" height="30%"}
+<img src="https://github.com/najonghyun/juchamsi/assets/102370959/c964c254-f904-46bc-a165-f79641920acb" width="30%" height="30%">
 
 ### 내 주차 현황
-
-![rn_image_picker_lib_temp_cb06641e-d24b-4b76-815a-3bd1bd1d8cd3](/uploads/25fec92faf3cea51631f71aba10de941/rn_image_picker_lib_temp_cb06641e-d24b-4b76-815a-3bd1bd1d8cd3.jpg){: width="30%" height="30%"}
-
-![rn_image_picker_lib_temp_f17eb306-605e-48fd-9184-c340e2166bdc](/uploads/3d8a3bd00d9d5b07d351f22840f7f360/rn_image_picker_lib_temp_f17eb306-605e-48fd-9184-c340e2166bdc.jpg){: width="30%" height="30%"}
+<img src="https://github.com/najonghyun/juchamsi/assets/102370959/818d21ee-3443-4c9f-bbe1-61e61f4e88c1" width="30%" height="30%">
+<img src="https://github.com/najonghyun/juchamsi/assets/102370959/16eb32f6-cb26-41de-8577-3506da5308dd" width="30%" height="30%">
 
 ### 마이페이지
-
-![rn_image_picker_lib_temp_c9454532-271e-4537-b087-f6d62dbd1742](/uploads/f34a9109097557b36dbc5db0d9129cc0/rn_image_picker_lib_temp_c9454532-271e-4537-b087-f6d62dbd1742.jpg){: width="30%" height="30%"}
+<img src="https://github.com/najonghyun/juchamsi/assets/102370959/6dff9f9b-a040-47df-8012-f2ff06f6f8bb" width="30%" height="30%">
 
 ### 채팅방
 
 - **시스템 채팅방**
-    
-    ![rn_image_picker_lib_temp_de2f8fbb-80bb-46ac-aedb-e44feddde73c](/uploads/019e709b4290fd4189e8bbec4540948c/rn_image_picker_lib_temp_de2f8fbb-80bb-46ac-aedb-e44feddde73c.jpg){: width="30%" height="30%"}
-    
+    <img src="https://github.com/najonghyun/juchamsi/assets/102370959/381ca5b6-1900-47b3-8c5c-2edb81d61e6e" width="30%" height="30%">
 
 - **사용자간 채팅방**
-    
-    ![rn_image_picker_lib_temp_1bb24893-c2ee-4f7b-ab94-731a6d92f679](/uploads/f768a0d423585ffdb84d7a519e068dbd/rn_image_picker_lib_temp_1bb24893-c2ee-4f7b-ab94-731a6d92f679.jpg){: width="30%" height="30%"}
-    
+    <img src="https://github.com/najonghyun/juchamsi/assets/102370959/87829ea5-b214-4dc7-9f7f-05a36b43fc36" width="30%" height="30%">
 
 ### 알람
-
-![rn_image_picker_lib_temp_cfd92672-9ec4-44d3-9a18-0d271b1720f6](/uploads/e813cffd3051fea01f4d80f9d49a2eca/rn_image_picker_lib_temp_cfd92672-9ec4-44d3-9a18-0d271b1720f6.jpg){: width="30%" height="30%"}
+<img src="https://github.com/najonghyun/juchamsi/assets/102370959/53fb1ccb-7c09-4aa7-a1bc-58c733a107ed" width="30%" height="30%">
 
 ## 🖥️ 화면 설계서
 
 ---
-
-![Untitled](/uploads/1ff287feae2acd39c002d249ee4c1ca1/Untitled.png){: width="50%" height="50%"}
+<img src="https://github.com/najonghyun/juchamsi/assets/102370959/2432e562-4720-48f4-b003-9b1d925018d6" width="30%" height="30%">
 
 ## ⚙️ ERD
 
 ---
+<img src="https://github.com/najonghyun/juchamsi/assets/102370959/6f0c2230-2a78-4550-85d4-90827ec7e1d9" width="30%" height="30%">
 
-![juchamsi_erd](/uploads/18a9af4bf9731809c8e9c0b8052b907a/juchamsi_erd.png){: width="70%" height="70%"}
