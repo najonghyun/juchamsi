@@ -1,4 +1,4 @@
-![sysarci drawio__3_](https://github.com/najonghyun/juchamsi/assets/102370959/cd2bb374-1277-4b1b-a1e2-b4cfcfa23286)## 🚘 주참시(주차장 참견 시스템 - JUCHAMSI)
+## 🚘 주참시(주차장 참견 시스템 - JUCHAMSI)
 
 ---
 
@@ -104,7 +104,7 @@
 
 ---
 
-![sysarci drawio__3_](https://github.com/najonghyun/juchamsi/assets/102370959/e8e4fd62-b094-4fd4-b809-3dc431843baf){: width="50%" height="50%"}
+<img src="https://github.com/najonghyun/juchamsi/assets/102370959/e8e4fd62-b094-4fd4-b809-3dc431843baf" width="50%" height="50%">
 
 ## ⚒️ 개발 및 협업 환경
 
