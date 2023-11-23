@@ -162,7 +162,7 @@
 
 ### 메인화면
 
-![rn_image_picker_lib_temp_5227b60a-0829-4479-86a3-b1a48a02d108_1](/uploads/71dc91b0cadbcdde286ee4d08dd338b2/rn_image_picker_lib_temp_5227b60a-0829-4479-86a3-b1a48a02d108_1.jpg){: width="30%" height="30%"}
+<img src="https://github.com/najonghyun/juchamsi/assets/102370959/1537c6d0-cf09-451b-aee4-70ba8046348e" width="30%" height="30%">
 
 ### 출차 시간 등록
 
