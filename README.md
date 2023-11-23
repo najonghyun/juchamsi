@@ -176,10 +176,12 @@
 ### 채팅방
 
 - **시스템 채팅방**
-    <img src="https://github.com/najonghyun/juchamsi/assets/102370959/381ca5b6-1900-47b3-8c5c-2edb81d61e6e" width="30%" height="30%">
+
+<img src="https://github.com/najonghyun/juchamsi/assets/102370959/381ca5b6-1900-47b3-8c5c-2edb81d61e6e" width="30%" height="30%">
 
 - **사용자간 채팅방**
-    <img src="https://github.com/najonghyun/juchamsi/assets/102370959/87829ea5-b214-4dc7-9f7f-05a36b43fc36" width="30%" height="30%">
+
+<img src="https://github.com/najonghyun/juchamsi/assets/102370959/87829ea5-b214-4dc7-9f7f-05a36b43fc36" width="30%" height="30%">
 
 ### 알람
 <img src="https://github.com/najonghyun/juchamsi/assets/102370959/53fb1ccb-7c09-4aa7-a1bc-58c733a107ed" width="30%" height="30%">
