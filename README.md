@@ -1,8 +1,8 @@
-# 🚘 주참시(주차장 참견 시스템 — JUCHAMSI) &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+# 🚘 주차장 참견 시스템 — JUCHAMSI &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
 
 #### 실시간 채팅과 주차 관리 기능을 통해 빌라 주민 간의 겹주차 문제를 효과적으로 완화할 수 있는 서비스입니다.
 
-### (closed)
+### https://juchamsi.vercel.app/
 
 ---
 
